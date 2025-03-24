@@ -1,0 +1,4 @@
+#.gitignore 
+untracked.txt
+* txt
+#!untracked.txt 이 파일만은 제외한다
